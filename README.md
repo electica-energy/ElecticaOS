@@ -42,6 +42,7 @@ The software generates the following analytical outputs:
 To explore the live demonstration and predictive analytics dashboard, visit the following link:
 
 **SOH Estimation Dashboard:** [https://elec-dash.streamlit.app/](https://elec-dash.streamlit.app/)
+Username: admin | Password: battery@100
 
 
 
