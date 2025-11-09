@@ -10,7 +10,8 @@ To demonstrate the predictive intelligence of ElecticaOS by analyzing real-world
 
 ## **Input**
 
-1. Upload battery life cycle data containing parameters such as **voltage, current, and temperature**.
+1. Upload battery life cycle data containing parameters such as **voltage, current, and temperature**. (Battery data sets are accessible through google drive link https://drive.google.com/drive/folders/1WFn7PKyWgWgVSpW9aAAe8yDMv0J8jCdo?usp=sharing , you can uploads you battery data too!)
+1A The data set should in format of column sequence of cycle number, voltage, current, temperature and time.
 2. The dataset should include multiple **charge–discharge cycles** to ensure accurate pattern recognition and trend analysis.
 3. The platform supports both **single-cell and pack-level datasets** in standard CSV or JSON formats.
 
