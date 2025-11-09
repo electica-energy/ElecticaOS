@@ -1,10 +1,6 @@
 # SOH-Estimation
 
-Here’s the **complete rewritten and professionally formatted one-pager** for your submission — incorporating your aim, flow, GitHub link, and the improved section describing the AI model (without disclosing its internal name).
-
-
-
-# **Electica Energy – Battery Intelligence Prototype**
+# **Electica Energy – Battery Intelligence 
 
 ## **Aim**
 
