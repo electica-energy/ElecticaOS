@@ -1,6 +1,6 @@
 # SOH-Estimation
 
-# **Electica Energy – Battery Intelligence 
+# **Electica Energy – Battery Intelligence**
 
 ## **Aim**
 
