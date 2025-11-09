@@ -45,7 +45,7 @@ To explore the live demonstration and predictive analytics dashboard, visit the 
 
 Here’s a concise, professional version — clean, impactful, and around one page:
 
----
+
 
 # **V2G (Vehicle to grid) Energy Orchestration (Simulation)**
 
@@ -53,7 +53,7 @@ Here’s a concise, professional version — clean, impactful, and around one pa
 
 To demonstrate ElecticaOS, an AI-driven energy trading and optimization platform inspired by Tesla’s Autobidder. The goal is to show how distributed battery assets can autonomously forecast, dispatch, and trade energy — turning storage systems into profit-generating, grid-stabilizing assets.
 
----
+
 
 ## **Overview**
 
@@ -64,13 +64,12 @@ It features two stages:
 * **Version 1.0:** Live grid monitoring and revenue tracking.
 * **Version 2.0:** Predictive control simulation with automated bidding and 24-hour forecasting.
 
----
 
 ## **Process**
 
 The platform uses an **AI-powered neural network and optimization engine** to analyze grid data, forecast demand, and generate real-time dispatch commands. It learns price and load patterns to simulate how ElecticaOS would autonomously manage distributed energy assets for maximum efficiency and revenue.
 
----
+
 
 ## **Outputs**
 
@@ -80,7 +79,7 @@ The platform uses an **AI-powered neural network and optimization engine** to an
 * Live revenue tracking from Arbitrage, FCAS, and Demand Response
 * Interactive analytics dashboard
 
----
+
 
 ## **Access Prototype**
 
