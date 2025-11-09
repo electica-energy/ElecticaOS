@@ -1,6 +1,6 @@
-# SOH-Estimation
+# ElecticaOS: Battery Intelligence & V2G (Vehicle to grid) Energy Orchestration
 
-# **Electica Energy – Battery Intelligence**
+# **Battery Intelligence (SOH Estimation)**
 
 ## **Aim**
 
@@ -10,8 +10,7 @@ To demonstrate the predictive intelligence of ElecticaOS by analyzing real-world
 
 ## **Input**
 
-1. Upload battery life cycle data containing parameters such as **voltage, current, and temperature**. (Battery data sets are accessible through google drive link https://drive.google.com/drive/folders/1WFn7PKyWgWgVSpW9aAAe8yDMv0J8jCdo?usp=sharing , you can uploads you battery data too!)
-1A The data set should in format of column sequence of cycle number, voltage, current, temperature and time.
+1. Upload battery life cycle data containing parameters such as **voltage, current, and temperature**. (Battery data sets are accessible through google drive link https://drive.google.com/drive/folders/1WFn7PKyWgWgVSpW9aAAe8yDMv0J8jCdo?usp=sharing , you can uploads you battery data too!), The data set should in format of column sequence of cycle number, voltage, current, temperature and time.
 2. The dataset should include multiple **charge–discharge cycles** to ensure accurate pattern recognition and trend analysis.
 3. The platform supports both **single-cell and pack-level datasets** in standard CSV or JSON formats.
 
@@ -42,14 +41,48 @@ The software generates the following analytical outputs:
 
 To explore the live demonstration and predictive analytics dashboard, visit the following links:
 
-**Software Dashboard:** [https://elec-dash.streamlit.app/](https://elec-dash.streamlit.app/)
-**GitHub Repository:** [https://github.com/electica-energy/ElecticaOS-Demo](https://github.com/electica-energy/ElecticaOS-Demo)
+**SOH Estimation Dashboard:** [https://elec-dash.streamlit.app/](https://elec-dash.streamlit.app/)
 
+Here’s a concise, professional version — clean, impactful, and around one page:
 
+---
 
-## **Conclusion**
+# **V2G (Vehicle to grid) Energy Orchestration (Simulation)**
 
-This demonstration highlights the power of ElecticaOS — a neural network–based AI platform capable of turning complex battery life cycle data into actionable intelligence. By predicting battery health and visualizing degradation trends, Electica helps manufacturers, fleet operators, and energy system integrators extend battery life, reduce downtime, and unlock new capabilities such as vehicle-to-grid (V2G) optimization.
+## **Aim**
 
+To demonstrate ElecticaOS, an AI-driven energy trading and optimization platform inspired by Tesla’s Autobidder. The goal is to show how distributed battery assets can autonomously forecast, dispatch, and trade energy — turning storage systems into profit-generating, grid-stabilizing assets.
 
+---
 
+## **Overview**
+
+ElecticaOS transforms batteries into active market participants through predictive AI control. The browser-based simulation showcases how distributed fleets can respond to market prices, grid imbalance, and renewable generation forecasts in real time.
+
+It features two stages:
+
+* **Version 1.0:** Live grid monitoring and revenue tracking.
+* **Version 2.0:** Predictive control simulation with automated bidding and 24-hour forecasting.
+
+---
+
+## **Process**
+
+The platform uses an **AI-powered neural network and optimization engine** to analyze grid data, forecast demand, and generate real-time dispatch commands. It learns price and load patterns to simulate how ElecticaOS would autonomously manage distributed energy assets for maximum efficiency and revenue.
+
+---
+
+## **Outputs**
+
+* Real-time grid and fleet monitoring
+* 24-hour demand and price forecasts
+* Automated dispatch simulation (charging/discharging)
+* Live revenue tracking from Arbitrage, FCAS, and Demand Response
+* Interactive analytics dashboard
+
+---
+
+## **Access Prototype**
+
+**Live Dashboard:** [https://eos-pied.vercel.app/](https://eos-pied.vercel.app/)
+*Username: a | Password: a*
